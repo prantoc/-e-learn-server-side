@@ -20,7 +20,6 @@ e-learn/node_modules/.bin/mime
 *.cmd
 *.ps1
 *.json
-*.md
 *.js
 e-learn/node_modules/vary/LICENSE
 e-learn/node_modules/accepts/LICENSE
